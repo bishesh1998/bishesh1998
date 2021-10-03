@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bishesh Tuladhar
 - 👀 I’m interested in Soccer, Video Games, and Coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Ruby amd GO languages
+- 💞️ I’m looking to collaborate on game designing
 - 📫 How to reach me bishesh1998@gmail.com
 
 <!---
